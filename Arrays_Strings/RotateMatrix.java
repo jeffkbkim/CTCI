@@ -17,7 +17,6 @@ public class RotateMatrix {
 			}
 		}
 	}
-
 	public static void main(String[] args) {
 		int[][] matrix = new int[][]{
 			new int[]{1, 2, 3, 4},
