@@ -19,7 +19,6 @@ public class ProjectDependency {
             System.out.println(p.name);
         }
     }
-    
 }
 
 class Project {
